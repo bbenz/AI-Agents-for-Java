@@ -1,0 +1,9 @@
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/model/ParameterDoc.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/service/AzureOpenAiService.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/service/DocumentationGeneratorService.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/service/JavaParserService.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/DocumentorApplication.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/model/FieldDoc.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/model/JavaClassDoc.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/model/MethodDoc.java
+/mnt/c/githublocal/AI-Agents-for-Java/src/main/java/com/documentor/agent/service/GitHubService.java

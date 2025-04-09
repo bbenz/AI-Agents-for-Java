@@ -1,0 +1,13 @@
+com/documentor/agent/service/JavaParserService.class
+com/documentor/agent/model/MethodDoc$MethodDocBuilder.class
+com/documentor/agent/model/FieldDoc.class
+com/documentor/agent/model/MethodDoc.class
+com/documentor/agent/model/ParameterDoc$ParameterDocBuilder.class
+com/documentor/agent/model/FieldDoc$FieldDocBuilder.class
+com/documentor/agent/model/ParameterDoc.class
+com/documentor/agent/DocumentorApplication.class
+com/documentor/agent/model/JavaClassDoc$JavaClassDocBuilder.class
+com/documentor/agent/model/JavaClassDoc.class
+com/documentor/agent/service/AzureOpenAiService.class
+com/documentor/agent/service/DocumentationGeneratorService.class
+com/documentor/agent/service/GitHubService.class
