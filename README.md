@@ -1,13 +1,23 @@
 # AI-Agents-for-Java
 
 
-Working repo for Microsoft AI Agents Hack 2025 session: AI Agents for Java using Azure AI Foundry and GitHub Copilot
+Working repo for Microsoft AI Agents Hack 2025 session: AI Agents for Java using Azure AI Foundry and GitHub Copilot.
+
+Check out the recording of how this repo was created here: 
+https://www.youtube.com/live/tIboGwcr7w0?si=Qe4C02G-wfOXBaLf
+
+The recording shows the process of coming up with an idea on ChatGPT using open AI for 4.5, then moving over to VS code to ask Claude sonnet 3.7 to enhance the prompt, which it did with a 386 line prompt! 
+
+The code generated in this repo is a documentation generator that you could point at any GitHub repo, and it decided to call it documentor.  The recording provides some good insight into the process, and eatch to the end to see how the code worked with just a few minutes to spare!
+
+The original AgentsHack session: 
 
 AI Agents for Java using Azure AI Foundry and GitHub Copilot
 9 April, 2025 | 12:00 PM - 1:00 PM (UTC-07:00) Pacific Time (US & Canada)
 
 AgentsHack 2025 Link: https://techcommunity.microsoft.com/blog/azuredevcommunityblog/microsoft-ai-agents-hack-april-8-30th-2025/4395595
 Session link: https://developer.microsoft.com/en-us/reactor/events/25336/
+
 
 Shortlink to this repo: https://aka.ms/AIAgentsforJava
 
